@@ -11,3 +11,8 @@
 ```
 var myVar = "Hello, world!";
 ```
+
+
+- [ ] Wake up
+- [ ] Get out of bed
+- [ ] Drag a comb across my head
